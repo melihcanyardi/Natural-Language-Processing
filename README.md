@@ -11,4 +11,5 @@ This repository includes the notes and codes I wrote while learning Natural Lang
     - [Jupyter Notebook](https://github.com/melihcanyardi/Natural-Language-Processing/blob/main/DataCamp%20-%20Natural%20Language%20Processing%20in%20Python/4-%20Advanced%20NLP%20with%20spaCy/4-%20Advanced%20NLP%20with%20spaCy.ipynb) 
 5. [Spoken Language Processing](https://github.com/melihcanyardi/Natural-Language-Processing/tree/main/DataCamp%20-%20Natural%20Language%20Processing%20in%20Python/5-%20Spoken%20Language%20Processing)
     - [Jupyter Notebook](https://github.com/melihcanyardi/Natural-Language-Processing/blob/main/DataCamp%20-%20Natural%20Language%20Processing%20in%20Python/5-%20Spoken%20Language%20Processing/5-%20Spoken%20Language%20Processing%20in%20Python.ipynb) 
-6. Feature Engineering for NLP in Python
+6. [Feature Engineering for NLP in Python](https://github.com/melihcanyardi/Natural-Language-Processing/tree/main/DataCamp%20-%20Natural%20Language%20Processing%20in%20Python/6-%20Feature%20Engineering%20for%20NLP)
+    - [Jupyter Notebook](https://github.com/melihcanyardi/Natural-Language-Processing/blob/main/DataCamp%20-%20Natural%20Language%20Processing%20in%20Python/6-%20Feature%20Engineering%20for%20NLP/6-%20Feature%20Engineering%20for%20NLP%20in%20Python.ipynb)
